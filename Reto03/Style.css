@@ -1,0 +1,14 @@
+#php{
+    height: 80px;
+    width:  80px;
+    border-radius: 100%;
+}
+.col-3 img{
+    height: 80px;
+    width:  80px;
+}
+#hla1{
+    height: 200px;
+    width:  200px;
+    border-radius: 30%;
+}
